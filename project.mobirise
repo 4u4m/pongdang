@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
-    "currentPage": "facebook.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 71,
     "versionPublish": "4.6.6",
@@ -50,7 +50,7 @@
         "main": true,
         "title": "퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"QsTOoWsDg5MNWDAqBCueTkK9VcHwv-2bIoQSDYncICk\" />",
         "footer_custom": "",
         "html_before": ""
       },
