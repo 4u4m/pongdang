@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
+    "name": "여행퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 71,
+    "uniqCompNum": 77,
     "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
@@ -41,14 +41,14 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"QsTOoWsDg5MNWDAqBCueTkK9VcHwv-2bIoQSDYncICk\" />",
+    "google-analytics": "",
     "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
+        "title": "여행 퐁당, 여행칼럼니스트 임성택과 함께하는 여행이야기",
         "meta_descr": "",
         "header_custom": "<meta name=\"google-site-verification\" content=\"QsTOoWsDg5MNWDAqBCueTkK9VcHwv-2bIoQSDYncICk\" />",
         "footer_custom": "",
@@ -911,7 +911,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
