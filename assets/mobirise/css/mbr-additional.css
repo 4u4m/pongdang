@@ -47,7 +47,7 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -652,7 +652,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2082,80 +2082,11 @@ body {
 .cid-qMVjtRKh32 .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-qMVUPY8Wvn {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/main-2-2000x1156.jpg");
-}
-.cid-qMW1iiUDb1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #0f7699;
-}
-.cid-qMW1iiUDb1 .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qMW1iiUDb1 .social-row {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qMW1iiUDb1 .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qMW1iiUDb1 .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qMW1iiUDb1 .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qMW1iiUDb1 .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qMW1iiUDb1 .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qMW1iiUDb1 .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qMW1iiUDb1 .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qMW1iiUDb1 .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qMW1iiUDb1 .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qMW1iiUDb1 .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qMW1iiUDb1 .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-qMW1iiUDb1 .media-container-row .row-copirayt p {
-  width: 100%;
+#custom-html-25 #z-index {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  z-index: 0;
 }
 .cid-qMW1s26AXU .navbar {
   background: #ffffff;
@@ -2538,17 +2469,6 @@ body {
 .cid-qMW1s26AXU .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qMVVJEPRD8 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/instagra-1-1200x802.jpg");
-}
-#custom-html-17 {
-  /* Type valid CSS here */
-}
-#custom-html-17 .my-image {
-  width: 100%;
-}
 .cid-qMW1xo5ClK .navbar {
   background: #ffffff;
   transition: none;
@@ -2930,75 +2850,11 @@ body {
 .cid-qMW1xo5ClK .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qMW1zFDwmb {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #0f7699;
-}
-.cid-qMW1zFDwmb .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qMW1zFDwmb .social-row {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qMW1zFDwmb .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qMW1zFDwmb .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qMW1zFDwmb .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qMW1zFDwmb .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qMW1zFDwmb .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qMW1zFDwmb .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qMW1zFDwmb .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qMW1zFDwmb .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qMW1zFDwmb .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qMW1zFDwmb .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qMW1zFDwmb .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-qMW1zFDwmb .media-container-row .row-copirayt p {
-  width: 100%;
+#custom-html-26 #z-index {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  z-index: 0;
 }
 .cid-qMVY41YaHs {
   padding-top: 120px;
